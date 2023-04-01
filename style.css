@@ -12,6 +12,7 @@ body {
   background-position: center;
   /*background-color: rgba(3, 25, 92, 0.916);*/
   min-height: 100vh;
+  opacity: 0.6;
 }
 
 .container {
